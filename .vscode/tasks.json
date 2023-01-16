@@ -15,7 +15,7 @@
                 "-lsfml-window",
                 "-lsfml-system",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/main"
             ],
             "options": {
                 "cwd": "${fileDirname}"
